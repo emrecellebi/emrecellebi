@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 <a href="https://twitter.com/emrecellebi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -12,7 +13,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<!--<a href="https://www.youtube.com/@emrecellebi" target="_blank">
+<a href="https://www.youtube.com/@emrecellebi" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>-->
 
@@ -48,18 +49,19 @@
     </a>
 </p>
 
+## Connect with me:
 
-<!--
-**emrecellebi/emrecellebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
 
-Here are some ideas to get you started:
+<a href = "https://linkedin.com/in/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://instagram.com/emrecellebi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ❤ Views and Followers
+
+<a href="https://github.com/dipakkr/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dipakkr">
+</a>
+<a href="https://github.com/emrecellebi?tab=followers"><img src="https://img.shields.io/github/followers/emrecellebi?label=Followers
+" alt="GitHub Badge"></a>
