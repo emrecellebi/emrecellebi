@@ -53,18 +53,17 @@
 
 <p align="left">
 
-<a href = "https://linkedin.com/in/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/emrecellebi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://tiktok.com/@emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/></a>
-<a href = "https://discord.gg/ykHSqfQ"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href = "https://twitch.tv/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
+<a href = "https://linkedin.com/in/emrecellebi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/emrecellebi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://instagram.com/emrecellebi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://tiktok.com/@emrecellebi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/></a>
+<a href = "https://discord.gg/ykHSqfQ" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://twitch.tv/emrecellebi" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
 
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/dipakkr/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=dipakkr">
+<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=emrecellebi">
 </a>
-<a href="https://github.com/emrecellebi?tab=followers"><img src="https://img.shields.io/github/followers/emrecellebi?label=Followers
-" alt="GitHub Badge"></a>
+<a href="#"><img src="https://img.shields.io/github/followers/emrecellebi?label=Followers&style=social" alt="GitHub Badge"></a>
