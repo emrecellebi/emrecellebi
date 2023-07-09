@@ -28,7 +28,25 @@
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
 </a>
 
+---
 
+<p align="center">
+    <a href="#">
+        <img title="" src="https://github-readme-stats.vercel.app/api?username=emrecellebi&theme=onedark&show_icons=true&hide_border=false&count_private=false"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="#">
+        <img title="" src="https://github-readme-streak-stats.herokuapp.com?user=emrecellebi&theme=onedark"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="#">
+        <img title="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrecellebi&theme=onedark&show_icons=true&hide_border=false&layout=compact"/>
+    </a>
+</p>
 
 
 <!--
