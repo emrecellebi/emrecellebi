@@ -15,7 +15,7 @@
 
 <a href="https://www.youtube.com/@emrecellebi" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>-->
+</a>
 
 <a href="https://tiktok.com/@emrecellebi">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white style="margin-bottom: 5px;" />
@@ -27,7 +27,7 @@
 
 <a href="https://twitch.tv/emrecellebi">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white style="margin-bottom: 5px;" />
-</a>
+</a>-->
 
 ---
 
@@ -56,6 +56,9 @@
 <a href = "https://linkedin.com/in/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/emrecellebi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://tiktok.com/@emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/></a>
+<a href = "https://discord.gg/ykHSqfQ"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://twitch.tv/emrecellebi"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
 
 
 ## ❤ Views and Followers
