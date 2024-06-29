@@ -22,4 +22,7 @@
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=emrecellebi">
 </a>
-<a href="#"><img src="https://img.shields.io/github/followers/emrecellebi?label=Followers&style=social" alt="GitHub Badge"></a>
+![](https://img.shields.io/github/followers/emrecellebi?label=Followers&style=social)
+
+
+![](https://raw.githubusercontent.com/emrecellebi/emrecellebi/main/bottom_header.svg)
