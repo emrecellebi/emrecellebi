@@ -12,6 +12,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emrecellebi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=emrecellebi&theme=synthwave-84)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emrecellebi&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emrecellebi&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emrecellebi&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emrecellebi&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emrecellebi&theme=2077)
+
 ## ❤ Views and Followers
 
 <a href="#">
